@@ -7,6 +7,13 @@
 	"compatibleCoreVersion": "9.238",
 	"author": "The Epic Snow Wolf, jbblily",
 	"coreTranslation": true,
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "en.json"
+		}
+	],
 	"scripts": [],
 	"styles" : ["foundry_login.css"],
 	"packs": [],
