@@ -22,7 +22,7 @@ based on code by u/bass-blowfish
 
   /* Change to "inherit" if you want to keep the text title.
      You then also need to remove the "World Logo" declaration. */
-  --login-show-text-title: none;
+  --login-show-text-title: inherit;
 }
 
 /* Footer Logo */
