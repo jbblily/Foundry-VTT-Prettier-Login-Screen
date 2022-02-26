@@ -21,4 +21,6 @@ If you are already using other core translation module, you should manually add 
 
 
 ## Example images
+![Login screen example with logo](https://user-images.githubusercontent.com/18694887/155850580-f714742a-2a68-4a15-94f9-dcfbe62bf208.png)
+
 ![Login screen example without logo](https://static.dnd.theepicsnowwolf.com/naoulan/foundry/css_example_with_world_title.jpg)
