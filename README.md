@@ -11,6 +11,10 @@ Based on [code by u/bass-blowfish](https://www.reddit.com/r/FoundryVTT/comments/
 ## Notice
 This module is technically considered as "Core Translation Moudule", which means **you can't use this module if you are using another core translation module**.
 
+Foundry's language file falls back to default language (English) if your json file doesn't contain appropriate keys. 
+
+Therefore, the screen will be shown as English, with world's login screen css applied.
+
 A user can only use one core translation module at a time. 
 
 If you are already using other core translation module, you should manually add css file to your module.
