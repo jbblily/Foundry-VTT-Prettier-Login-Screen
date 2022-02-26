@@ -2,7 +2,7 @@
 	"name": "prettier-login",
 	"title": "Prettier Login Screen",
 	"description": "Prettier the login, happier the game.",
-	"version": "0.1.7",
+	"version": "0.1.8",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9.238",
 	"author": "The Epic Snow Wolf, jbblily",
@@ -19,5 +19,5 @@
 	"packs": [],
 	"url" : "https://github.com/jbblily/Foundry-VTT-Prettier-Login-Screen",
 	"manifest" : "https://raw.githubusercontent.com/jbblily/Foundry-VTT-Prettier-Login-Screen/jbblily-patch-1/module.json",
-	"download" : "https://github.com/jbblily/Foundry-VTT-Prettier-Login-Screen/archive/refs/tags/v0.1.7.zip"
+	"download" : "https://github.com/jbblily/Foundry-VTT-Prettier-Login-Screen/archive/refs/tags/v0.1.8.zip"
 }
