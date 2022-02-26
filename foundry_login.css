@@ -22,7 +22,18 @@ based on code by u/bass-blowfish
 
   /* Change to "inherit" if you want to keep the text title.
      You then also need to remove the "World Logo" declaration. */
-  --login-show-text-title: inherit;
+  --login-show-text-title: none;
+}
+
+/* World Logo - REMOVE THIS IF YOU WANT A TEXT TITLE */
+#join-game #world-title {
+  background: var(--login-world-logo);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 120px !important;
+  border: none;
+  box-shadow: none;
 }
 
 /* Footer Logo */
