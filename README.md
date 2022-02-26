@@ -13,7 +13,7 @@ This module is technically considered as "Core Translation Moudule", which means
 
 A user can only use one core translation module at a time. 
 
-If you are already using other core translation module, you should manually add css files to your module.
+If you are already using other core translation module, you should manually add css file to your module.
 
 
 ## Example images
