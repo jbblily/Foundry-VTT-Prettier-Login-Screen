@@ -4,8 +4,8 @@
   "description": "Prettier the login, happier the game.",
   "version": "0.1.9",
   "compatibility": {
-    "minimum": "9",
-    "verified": "9.238"
+    "minimum": "10",
+    "verified": "10"
   },
   "coreTranslation": true,
   "languages": [
